@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851974961512",
+    "firebase_url": "https://dilatua-851f3.firebaseio.com",
+    "project_id": "dilatua-851f3",
+    "storage_bucket": "dilatua-851f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851974961512:android:40c559991b94ca14ea3edd",
+        "android_client_info": {
+          "package_name": "com.example.dilatua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851974961512-otg23tsp36hremsbjv8eeh898b4icgj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dilatua",
+            "certificate_hash": "819a10ce1043daefca082b4411347900637bc854"
+          }
+        },
+        {
+          "client_id": "851974961512-97h8pimehd55gegs2md0i7lblkk6bh0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqtW78vNtDLIJet8nRcPX3ntfy_tJ7bUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851974961512-97h8pimehd55gegs2md0i7lblkk6bh0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

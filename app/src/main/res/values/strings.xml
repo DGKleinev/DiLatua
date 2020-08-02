@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">DiLaTua</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="registrati">registrazione</string>
+    <string name="hai_dimenticato_la_password">Hai dimenticato la Password?</string>
+    <string name="d_la_tua">Dì La Tua!</string>
+    <string name="reimposta">Reimposta</string>
+    <string name="reimposta_password">Reimposta Password</string>
+    <string name="messaggio">messaggio</string>
+    <string name="h1_registrazione">Dì La Tua! - Registrazione</string>
+    <string name="nome">Nome</string>
+    <string name="cognome">Cognome</string>
+    <string name="maschio">Maschio</string>
+    <string name="femmina">Femmina</string>
+    <string name="data">seleziona data di nascita</string>
 </resources>

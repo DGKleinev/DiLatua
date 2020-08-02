@@ -8,16 +8,26 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".ScegliTipologiaQuiz"></activity>
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".ReimpostaPasswordActivity"/>
+        <activity
+            android:name=".SfondoActivity"
+            android:theme="@style/SplashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ScegliTipologiaQuiz" />
         <activity android:name=".OpzioniDomandaActivity" />
         <activity android:name=".anteprimaActivity" />
-        <activity android:name=".Quiz.CreaDomandaActivity" />
-        <activity android:name=".Quiz.QuizActivity" />
+        <activity android:name=".CreaDomandaActivity" />
+        <activity android:name=".QuizActivity" />
         <activity android:name=".AboutUsActivity" />
         <activity android:name=".ProfiloActivity" />
-        <activity android:name=".login.RegistrazioneActivity" />
-        <activity android:name=".login.LoginActivity" />
+        <activity android:name=".RegistrazioneActivity" />
+        <activity android:name=".LoginActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

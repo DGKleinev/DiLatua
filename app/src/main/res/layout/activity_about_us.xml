@@ -37,7 +37,7 @@
             android:id="@+id/textView16"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="In base agli studi o al lavoro che facciamo, al hobby di cui siamo appassionati, esistono persone che, come noi, si pongono delle domande e aspettano che qualcuno risponda ad esse, quindi entra in questa community e dì la tua!"
+            android:text="In base agli studi o al lavoro che facciamo, agli hobby di cui siamo appassionati, esistono persone che, come noi, si pongono delle domande e aspettano che qualcuno risponda, quindi entra in questa community e dì la tua!"
             android:textSize="18dp"
             android:textStyle="bold" />
 
